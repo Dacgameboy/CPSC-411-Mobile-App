@@ -1,1 +1,1 @@
-# CPSC-411-Mobile-App
+# myFitness
